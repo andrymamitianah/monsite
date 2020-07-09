@@ -1,1 +1,1 @@
-<script> alert('bonjour be miitsy')</script>
+alert('bonjour be miitsy');
